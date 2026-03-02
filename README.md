@@ -9,7 +9,7 @@ Markdown
 ### 🚀 Sobre mim
 - 🎓 Estudando programação e ferramentas de desenvolvimento.
 - 💻 Atualmente aprendendo a usar o **Git** e o **GitHub**.
-- 🛠️ Interessado em tecnologias como a **RTX 4060**.
+- 🛠️ Interessado em tecnologia.
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
