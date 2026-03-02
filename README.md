@@ -16,5 +16,3 @@ Markdown
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 Como me encontrar
-- **GitHub**: [HenriqueDelegrego](https://github.com/
