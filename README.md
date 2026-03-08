@@ -1,18 +1,42 @@
-
-Markdown
-# Olá, eu sou o  Müller ! 🇩🇪
-
-
+# Olá, eu sou o Müller
 
 ---
 
-### 🚀 Sobre mim
-- 🎓 Estudando programação e ferramentas de desenvolvimento.
-- 💻 Atualmente aprendendo a usar o **Git** e o **GitHub**.
-- 🛠️ Interessado em tecnologia.
+## Sobre mim
 
-### 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+🎓 **Estudante de Desenvolvimento de Sistemas**
+💻 **Estudando Python, Java, HTML, CSS**
+🚀 **Focado em crescer na área de tecnologia**
+🌍 **Idiomas:** Alemão (A1)
+📍 **Localização:** Blumenau, SC
 
+---
+
+
+
+## Tecnologias que estou aprendendo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Muller-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Muller-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Muller-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Muller-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## Objetivos
+
+🔥 **Conseguir uma oportunidade como desenvolvedor júnior**
+📚 **Evoluir constantemente minhas habilidades técnicas**
+🚀 **Construir projetos reais que gerem impacto**
+
+---
+
+## Contatos
+
+🤝 **LinkedIn:** [Müller Nogueira](https://www.linkedin.com/in/m%C3%BCller-nogueira-63679b3aa)
+📧 **E-mail:** millernogueira14@gmail.com
+
+---
+*Obrigado por visitar meu perfil!*
