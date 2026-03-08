@@ -1,42 +1,32 @@
 # Olá, eu sou o Müller
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daemon.muller) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/müller-nogueira)
 ---
 
-## Sobre mim
-
-🎓 **Estudante de Desenvolvimento de Sistemas**
-💻 **Estudando Python, Java, HTML, CSS**
-🚀 **Focado em crescer na área de tecnologia**
-🌍 **Idiomas:** Alemão (A1)
-📍 **Localização:** Blumenau, SC
-
----
-
-
-
-## Tecnologias que estou aprendendo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Muller-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Muller-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Muller-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Muller-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 🚀 Sobre mim
+* 🎓 **Estudante de Desenvolvimento de Sistemas**
+* 💻 **Estudando Python, Java, HTML, CSS**
+* 🚀 **Focado em crescer na área de tecnologia**
+* 🌍 **Idiomas:** Alemão (A1)
+* 📍 **Localização:** Blumenau, SC
 
 ---
 
-## Objetivos
-
-🔥 **Conseguir uma oportunidade como desenvolvedor júnior**
-📚 **Evoluir constantemente minhas habilidades técnicas**
-🚀 **Construir projetos reais que gerem impacto**
+### 🛠️ Toolbox de Estudos
+`Python` • `Java` • `HTML5` • `CSS3` • `Git` • `GitHub`
 
 ---
 
-## Contatos
+### 🎯 Objetivos
+* **Conseguir uma oportunidade como desenvolvedor júnior**
+* **Evoluir constantemente minhas habilidades técnicas**
+* **Desenvolver projetos reais de alto impacto.**
 
-🤝 **LinkedIn:** [Müller Nogueira](https://www.linkedin.com/in/m%C3%BCller-nogueira-63679b3aa)
-📧 **E-mail:** millernogueira14@gmail.com
+---
+
+### 📬 Contato
+
+* 📧 **E-mail:** millernogueira14@gmail.com
 
 ---
 *Obrigado por visitar meu perfil!*
